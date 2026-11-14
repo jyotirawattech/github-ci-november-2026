@@ -4,8 +4,6 @@ Unofficial, independent analysis of public GitHub Status incidents in November 2
 
 This is a reading of public status pages and incident posts. It is not a GitHub postmortem, it uses no insider information, and it is not written for or on behalf of any employer.
 
-**Draft only.** This folder is repo-ready copy. Do not create the GitHub repository, push, or publish until the owner approves.
-
 **Suggested repository:** [github.com/jyotirawattech/github-ci-november-2026](https://github.com/jyotirawattech/github-ci-november-2026)
 
 ## What's in this repository
